@@ -1,0 +1,166 @@
+[
+    {
+        "nombre": "Bulbasaur",
+        "imagen": "bulbasaur.png",
+        "habilidades": [
+            {
+                "nombre": "Lanzallamas",
+                "tipo": "fuego",
+                "poder": 60,
+                "efecto": {
+                    "tipo": "daño",
+                    "chance": 20,
+                    "efecto": "quemar"
+                }
+            },
+            {
+                "nombre": "Hoja Afilada",
+                "tipo": "planta",
+                "poder": 50,
+                "efecto": {
+                    "tipo": "daño",
+                    "chance": 15,
+                    "efecto": "envenenar"
+                }
+            },
+            {
+                "nombre": "Defensa Aumentada",
+                "tipo": "defensiva",
+                "poder": 0,
+                "efecto": {
+                    "tipo": "defensa",
+                    "incremento": 10,
+                    "duracion": 1
+                }
+            },
+            {
+                "nombre": "Energibola",
+                "tipo": "planta",
+                "poder": 70,
+                "efecto": {
+                    "tipo": "daño",
+                    "chance": 10,
+                    "efecto": "envenenar"
+                }
+            }
+        ],
+        "estadisticas": {
+            "puntosVida": 45,
+            "defensa": 49,
+            "ataque": 49,
+            "velocidad": 45,
+            "evasión": 55
+        }
+    },
+    {
+        "nombre": "Charmander",
+        "imagen": "charmander.png",
+        "habilidades": [
+            {
+                "nombre": "Llamarada",
+                "tipo": "fuego",
+                "poder": 80,
+                "efecto": {
+                    "tipo": "daño",
+                    "chance": 30,
+                    "efecto": "quemar"
+                }
+            },
+            {
+                "nombre": "Garra Dragón",
+                "tipo": "dragón",
+                "poder": 60,
+                "efecto": {
+                    "tipo": "daño",
+                    "chance": 0,
+                    "efecto": null
+                }
+            },
+            {
+                "nombre": "Reflejo",
+                "tipo": "defensiva",
+                "poder": 0,
+                "efecto": {
+                    "tipo": "defensa",
+                    "incremento": 15,
+                    "duracion": 3
+                }
+            },
+            {
+                "nombre": "Sofoco",
+                "tipo": "fuego",
+                "poder": 90,
+                "efecto": {
+                    "tipo": "daño",
+                    "chance": 20,
+                    "efecto": "quemar"
+                }
+            }
+        ],
+        "estadisticas": {
+            "puntosVida": 39,
+            "defensa": 43,
+            "ataque": 52,
+            "velocidad": 65,
+            "evasión": 50
+        }
+    },
+    {
+        "nombre": "Squirtle",
+        "imagen": "squirtle.png",
+        "habilidades": [
+            {
+                "nombre": "Pistola Agua",
+                "tipo": "agua",
+                "poder": 40,
+                "efecto": {
+                    "tipo": "daño",
+                    "chance": 0,
+                    "efecto": null
+                }
+            },
+            {
+                "nombre": "Burbuja",
+                "tipo": "agua",
+                "poder": 50,
+                "efecto": {
+                    "tipo": "daño",
+                    "chance": 10,
+                    "efecto": "envenenar"
+                }
+            },
+            {
+                "nombre": "Aguacero",
+                "tipo": "defensiva",
+                "poder": 0,
+                "efecto": {
+                    "tipo": "defensa",
+                    "incremento": 20,
+                    "duracion": 2
+                }
+            },
+            {
+                "nombre": "Rayo Hielo",
+                "tipo": "hielo",
+                "poder": 60,
+                "efecto": {
+                    "tipo": "daño",
+                    "chance": 15,
+                    "efecto": "paralizar"
+                }
+            }
+        ],
+        "estadisticas": {
+            "puntosVida": 44,
+            "defensa": 65,
+            "ataque": 48,
+            "velocidad": 43,
+            "evasión": 55
+        }
+    }
+]
+    
+          
+
+   
+            
